@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍💻 Currently working on all things Kafka
+- :computer: Software Engineer at Red Hat
 - 💬 Ask me about gaining confidence/experience/fun presenting
 - 😄 Pronouns: She/Her
