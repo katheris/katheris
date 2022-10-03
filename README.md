@@ -31,3 +31,19 @@ This [playlist](https://www.youtube.com/playlist?list=PLJTJpEL_Yd9gEV2-YCzcRBP4b
 - [Lessons learned building a connector using Kafka Connect](https://www.confluent.io/kafka-summit-san-francisco-2019/lessons-learned-building-a-connector-using-kafka-connect/) - Kafka Summit San Francisco 2019
 - [Running Kafka in Kubernetes: a practical guide](https://www.confluent.io/kafka-summit-lon19/running-kafka-in-kubernetes-practical-guide/) - Kafka Summit London 2019
 - [Lessons learned building a connector using Kafka Connect](https://www.confluent.io/en-gb/kafka-summit-ny19/lessons-learned-building-a-connector/) - Kafka Summit New York 2019
+
+## Other technical content
+
+#### Podcasts
+
+- [A Bootiful Podcast: RedHat's Kate Stanley on the distinction between traditional brokers and Apache Kafka](https://spring.io/blog/2022/01/20/a-bootiful-podcast-redhat-s-kate-stanley-on-the-distinction-between-traditional-brokers-and-apache-kafka)
+- [A Bootiful Podcast: Fellow Java Champion Kate Stanley on Kubernetes and Apache Kafka](https://spring.io/blog/2021/11/18/a-bootiful-podcast-fellow-java-champion-kate-stanley-on-kubernetes-and-apache-kafka)
+
+#### LinkedIn Learning courses
+
+- [Cloud-Native Development Using Java with Eclipse MicroProfile](https://www.linkedin.com/learning/cloud-native-development-using-java-with-eclipse-microprofile)
+- [Deploying and Running Apache Kafka on Kubernetes](https://www.linkedin.com/learning/deploying-and-running-apache-kafka-on-kubernetes)
+
+#### Kafka Connect book (WIP)
+
+We are releasing the draft chapters of this book as we write them on [O'Reilly](https://learning.oreilly.com/library/view/kafka-connect/9781098126520/) and would welcome any feedback.
