@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about gaining confidence/experience/fun presenting
 - 😄 Pronouns: She/Her
 
+## Social Media
+
+[Twitter/X](https://twitter.com/KateStanley91)
+[LinkedIn](https://www.linkedin.com/in/katherine-kate-stanley-3796b579/)
+[Mastodon](https://fosstodon.org/@katheris)
+
 ## Past presentations
 
 This [playlist](https://www.youtube.com/playlist?list=PLJTJpEL_Yd9gEV2-YCzcRBP4bWKAzQhYK) contains recordings of most of my speaking sessions. For conferences where the session isn't available on YouTube, check out the list below.
