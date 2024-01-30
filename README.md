@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ## Social Media
 
-[Twitter/X](https://twitter.com/KateStanley91)
-[LinkedIn](https://www.linkedin.com/in/katherine-kate-stanley-3796b579/)
-[Mastodon](https://fosstodon.org/@katheris)
+- [Twitter/X](https://twitter.com/KateStanley91)
+- [LinkedIn](https://www.linkedin.com/in/katherine-kate-stanley-3796b579/)
+- [Mastodon](https://fosstodon.org/@katheris)
 
 ## Past presentations
 
