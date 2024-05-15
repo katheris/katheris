@@ -32,6 +32,7 @@ This [playlist](https://www.youtube.com/playlist?list=PLJTJpEL_Yd9gEV2-YCzcRBP4b
 
 #### Kafka Summit presentations
 
+- [Getting the Balance Right with Kafka Connect](https://www.confluent.io/events/kafka-summit-london-2024/getting-the-balance-right-with-kafka-connect/) - Kafka Summit London 2024
 - [Getting up to speed with Kafka Connect](https://www.confluent.io/en-gb/events/kafka-summit-london-2022/getting-up-to-speed-with-kafka-connect-from-the-basics-to-the-latest/) - Kafka Summit London 2022
 - [Streaming with Structure](https://www.confluent.io/en-gb/events/kafka-summit-europe-2021/streaming-with-structure/) - Kafka Summit Europe 2021
 - [Reacting to an Event-Driven world](https://videos.confluent.io/watch/QZBsrYFWgKPzz8VBzAHop1) - Kafka Summit 2020
